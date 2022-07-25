@@ -1,0 +1,15 @@
+D:\Source Code\EvolveDirectoryCleaner\bin\Debug\net6.0\EvolveDirectoryCleaner.exe
+D:\Source Code\EvolveDirectoryCleaner\bin\Debug\net6.0\EvolveDirectoryCleaner.deps.json
+D:\Source Code\EvolveDirectoryCleaner\bin\Debug\net6.0\EvolveDirectoryCleaner.runtimeconfig.json
+D:\Source Code\EvolveDirectoryCleaner\bin\Debug\net6.0\EvolveDirectoryCleaner.dll
+D:\Source Code\EvolveDirectoryCleaner\bin\Debug\net6.0\EvolveDirectoryCleaner.pdb
+D:\Source Code\EvolveDirectoryCleaner\obj\Debug\net6.0\EvolveDirectoryCleaner.csproj.AssemblyReference.cache
+D:\Source Code\EvolveDirectoryCleaner\obj\Debug\net6.0\EvolveDirectoryCleaner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code\EvolveDirectoryCleaner\obj\Debug\net6.0\EvolveDirectoryCleaner.AssemblyInfoInputs.cache
+D:\Source Code\EvolveDirectoryCleaner\obj\Debug\net6.0\EvolveDirectoryCleaner.AssemblyInfo.cs
+D:\Source Code\EvolveDirectoryCleaner\obj\Debug\net6.0\EvolveDirectoryCleaner.csproj.CoreCompileInputs.cache
+D:\Source Code\EvolveDirectoryCleaner\obj\Debug\net6.0\EvolveDirectoryCleaner.dll
+D:\Source Code\EvolveDirectoryCleaner\obj\Debug\net6.0\refint\EvolveDirectoryCleaner.dll
+D:\Source Code\EvolveDirectoryCleaner\obj\Debug\net6.0\EvolveDirectoryCleaner.pdb
+D:\Source Code\EvolveDirectoryCleaner\obj\Debug\net6.0\EvolveDirectoryCleaner.genruntimeconfig.cache
+D:\Source Code\EvolveDirectoryCleaner\obj\Debug\net6.0\ref\EvolveDirectoryCleaner.dll
